@@ -1,0 +1,9 @@
+c:\users\kennyist\documents\visual studio 2010\Projects\ftpg\ftpg\ftpg\bin\x86\Debug\ftpg.exe
+c:\users\kennyist\documents\visual studio 2010\Projects\ftpg\ftpg\ftpg\bin\x86\Debug\ftpg.pdb
+c:\users\kennyist\documents\visual studio 2010\Projects\ftpg\ftpg\ftpg\obj\x86\Debug\ftpg.csprojResolveAssemblyReference.cache
+c:\users\kennyist\documents\visual studio 2010\Projects\ftpg\ftpg\ftpg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kennyist\documents\visual studio 2010\Projects\ftpg\ftpg\ftpg\obj\x86\Debug\ftpg.exe
+c:\users\kennyist\documents\visual studio 2010\Projects\ftpg\ftpg\ftpg\obj\x86\Debug\ftpg.pdb
+C:\Users\Kennyist\Documents\Visual Studio 2010\Projects\ftpg\ftpg\ftpg\bin\x86\Debug\Content\font\font.xnb
+C:\Users\Kennyist\Documents\Visual Studio 2010\Projects\ftpg\ftpg\ftpg\bin\x86\Debug\Content\image\player.xnb
+C:\Users\Kennyist\Documents\Visual Studio 2010\Projects\ftpg\ftpg\ftpg\bin\x86\Debug\Content\image\enemy.xnb

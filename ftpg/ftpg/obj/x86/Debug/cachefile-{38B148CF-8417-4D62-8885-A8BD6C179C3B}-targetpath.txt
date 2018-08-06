@@ -1,0 +1,3 @@
+Content\font\font.xnb
+Content\image\player.xnb
+Content\image\enemy.xnb
